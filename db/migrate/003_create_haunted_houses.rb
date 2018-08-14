@@ -13,4 +13,3 @@ class CreateHauntedHouses < ActiveRecord::Migration[5.0]
     end
   end
 end
-© 2018 GitHub, Inc.
